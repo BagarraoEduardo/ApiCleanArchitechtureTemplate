@@ -1,0 +1,6 @@
+@ApiCleanArchitechtureTemplate_HostAddress = http://localhost:5246
+
+GET {{ApiCleanArchitechtureTemplate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
